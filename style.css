@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-2 {
+     background-color: aqua;
+      margin-top: 50px;
+}
